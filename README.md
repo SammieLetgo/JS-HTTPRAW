@@ -1,5 +1,5 @@
 # JS-HTTPRAW
-JS-HTTPFLOOD With out proxy for free and for education only!
+JS-HTTPFLOOD Without proxy for free and for education only!
 
 <img src="https://media2.giphy.com/media/Wp1KN1fJiVsx1tOu0k/giphy.gif">
 
