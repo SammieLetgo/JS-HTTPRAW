@@ -1,7 +1,7 @@
 # JS-HTTPRAW
 JS-HTTPFLOOD With out proxy for free and for education only!
 
-<a src="https://media2.giphy.com/media/Wp1KN1fJiVsx1tOu0k/giphy.gif">
+<img src="https://media2.giphy.com/media/Wp1KN1fJiVsx1tOu0k/giphy.gif">
 
 <h1>How it's Worked?
 <h3> CloudflareBypasser With Radnom Method And Random Parameeter
