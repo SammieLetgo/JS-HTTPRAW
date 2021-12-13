@@ -9,9 +9,9 @@ JS-HTTPFLOOD With out proxy for free and for education only!
 <h1>Usage (EN)
 <h4>1. Make sure you already have NodeJS (Ver 12++)
 <h4>2. Run Command | npm install cloudflare-bypasser
-<h4>3. Run Command | node flood.js <Your Target> <Durations>
+<h4>3. Run Command | "node flood.js <Your Target> <Durations>"
   
 <h1>Usage (TH)
 <h4>1. ต้องมี NodeJS Version 12 ขึ้นไป ถ้าไม่มีให้ลง https://nodejs.org/en/
 <h4>2. พิมคําสั่ง | npm install cloudflare-bypasser
-<h4>3. พิมคําสั่ง | node flood.js <เป้าหมาย> <ระยะเวลา>
+<h4>3. พิมคําสั่ง | "node flood.js <เป้าหมาย> <ระยะเวลา>"
